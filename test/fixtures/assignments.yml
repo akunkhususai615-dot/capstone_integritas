@@ -1,0 +1,12 @@
+
+one:
+  course: one
+  title: "Tugas Pemrograman"
+  description: "Latihan pemrograman dasar"
+  deadline: 2026-12-01
+
+two:
+  course: two
+  title: "Tugas Basis Data"
+  description: "Latihan database"
+  deadline: 2026-12-15

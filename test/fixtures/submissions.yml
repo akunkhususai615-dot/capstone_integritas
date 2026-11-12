@@ -1,0 +1,14 @@
+
+one:
+  student: one
+  assignment: one
+  score: 85.00
+  status: submitted
+  submitted_at: 2026-11-12 16:14:12
+
+two:
+  student: two
+  assignment: two
+  score: 90.00
+  status: graded
+  submitted_at: 2026-11-12 16:15:12

@@ -1,0 +1,10 @@
+
+one:
+  nim: "2310001"
+  name: "Andi"
+  email: "andi@example.com"
+
+two:
+  nim: "2310002"
+  name: "Budi"
+  email: "budi@example.com"
